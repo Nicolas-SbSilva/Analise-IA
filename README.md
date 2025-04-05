@@ -1,5 +1,5 @@
 # Analise-IA
-![Iniciando Projeto](\assets\inicio.png)
+![Iniciando Projeto][assests/inicio.png]
 Para começar o projeto foi necessário criar um novo recuso, portanto iniciamos acessando o portal da Azure e clicando na opção "Criar um recurso";
 
 ![Selecinando Serviços](assets\opcoesSelecionadas.png)
@@ -22,3 +22,5 @@ Já na frase negativa, houve a dificuldade da análise por completa pois a frase
 Se quisermos que o Language Studio capte melhor os "targets" e os assessments, podemos estruturar a frases assim:
 “The headache was terrible and made my day awful.”
 Fazendo com que  o “headache” vire um alvo claro, e “terrible”/“awful” como avaliações explícitas.
+
+[def]: \assets\inicio.png

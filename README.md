@@ -1,5 +1,5 @@
 # Analise-IA
-![Iniciando Projeto](assets\inicio.png)
+![Iniciando Projeto](\assets\inicio.png)
 Para começar o projeto foi necessário criar um novo recuso, portanto iniciamos acessando o portal da Azure e clicando na opção "Criar um recurso";
 
 ![Selecinando Serviços](assets\opcoesSelecionadas.png)

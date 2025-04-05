@@ -22,5 +22,3 @@ Já na frase negativa, houve a dificuldade da análise por completa pois a frase
 Se quisermos que o Language Studio capte melhor os "targets" e os assessments, podemos estruturar a frases assim:
 “The headache was terrible and made my day awful.”
 Fazendo com que  o “headache” vire um alvo claro, e “terrible”/“awful” como avaliações explícitas.
-
-[def]: \assets\inicio.png

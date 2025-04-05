@@ -1,17 +1,17 @@
 # Analise-IA
-![Iniciando Projeto](assets/inicio.png)
+![Iniciando Projeto](assets/inicio.png) <br>
 Para começar o projeto foi necessário criar um novo recuso, portanto iniciamos acessando o portal da Azure e clicando na opção "Criar um recurso";
 
-![Selecinando Serviços](assets/opcoesSelecionadas.png)
+![Selecinando Serviços](assets/opcoesSelecionadas.png) <br>
 Após a abertura da tela, selecionar a categoria de "IA + Machine Learning" e criar o recurso para "Serviço de Linguagem";
 
-![Language Studio](assets/languageStudio.png)
+![Language Studio](assets/languageStudio.png) <br>
 Ao acessar o Langua Studio, para utilizar a fução do nosso projeto, devemos selecionar a opção de "Classify text" e optar pela "Analyze sentiment and mine opninions";
 
-![Primeio Teste](assets/primeiraSentenca.png)
+![Primeio Teste](assets/primeiraSentenca.png) <br>
 Para a realização do teste, foi elaborado a primeira sentença com fim de analisar um texto onde descrevesse um dia majoritariamente bom. Ficou claro que a Ia soube dividir os processos e situações, dando uma resposta certeira sobre os sentimentos passados nas situações descritas;
 
-![Segundo Teste](assets/segundaSentenca.png)
+![Segundo Teste](assets/segundaSentenca.png) <br>
 Para a realização do teste, dessa vez foi elaborado um texto onde o relator estivesse informando uma situação ruim que passou. A Ia novamente soube separar as sentencas no texto e classificar o sentimento nas frases, mas houve dificuldade no processo de Mine Opninions onde explicaria onde estaria o "assessment";
 
 Conclusão do projeto:
